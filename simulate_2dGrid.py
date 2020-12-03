@@ -11,8 +11,6 @@ class Ising2D:
         self.spins = np.random.choice([-1,1], size = [N,N])
     
     def oneStep(self):
-        '''for x in range(self.N):
-            for y in range(self.N):'''
         for i in range(self.N*10):
             x,y = random.choices(range(self.N),k=2)
             self.updateSpins(x, y)
@@ -44,7 +42,7 @@ class Ising2D:
         elif random.random() > math.exp(-self.beta * dEnergy):
             self.spins[x,y] *= -1
 
-def anim(i):
+def anim_grid(i, grid, ax):
     ax.clear()
-    a.oneStep()
-    plt.imshow(a.spins, cmap="gray")
+    grid.oneStep()
+    plt.imshow(grid.spins, cmap="gray")
