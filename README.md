@@ -12,4 +12,5 @@ https://user-images.githubusercontent.com/47824923/135429774-f6ec18c6-1872-4700-
 
 
 [1] -	Barabási–Albert model on wiki: https://en.wikipedia.org/wiki/Barabási–Albert_model
+
 [2] -	Bernardes, Americo T., Dietrich Stauffer, and Janos Kertész. "Election results and the Sznajd model on Barabasi network." The European Physical Journal B-Condensed Matter and Complex Systems 25.1 (2002): 123-127.
