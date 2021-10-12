@@ -10,6 +10,8 @@ See the report for my results. You may have to download it, as Github doesn't re
 
 https://user-images.githubusercontent.com/47824923/135429774-f6ec18c6-1872-4700-85db-4024b2910fc8.mp4
 
+![ising_150grid](https://user-images.githubusercontent.com/47824923/136989997-a1c0bead-98ef-432c-b173-63908625da54.png)
+
 
 [1] -	Barabási–Albert model on wiki: https://en.wikipedia.org/wiki/Barabási–Albert_model
 
